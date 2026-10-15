@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[97367,["/aromasense-demo/_next/static/chunks/126wcws0-8dle.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/aromasense-demo/_next/static/chunks/126wcws0-8dle.js"],"ViewportBoundary"]
+8:I[97367,["/aromasense-demo/_next/static/chunks/126wcws0-8dle.js"],"MetadataBoundary"]
+9:I[27201,["/aromasense-demo/_next/static/chunks/126wcws0-8dle.js"],"IconMark"]
+b:I[39756,["/aromasense-demo/_next/static/chunks/126wcws0-8dle.js"],"default"]
+c:I[37457,["/aromasense-demo/_next/static/chunks/126wcws0-8dle.js"],"default"]
+f:I[22016,["/aromasense-demo/_next/static/chunks/126wcws0-8dle.js"],""]
+10:I[5500,["/aromasense-demo/_next/static/chunks/126wcws0-8dle.js"],"Image"]
+:HL["/aromasense-demo/_next/static/chunks/3_in7xg1q2wr0.css","style"]
+6:X
+e:X
+e:C
+0:{"buildId":"TM00sGFlcP9VC_fuWdq9T","data":[{"rsc":["$","$1","c",{"children":[null,null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page introuvable · Page not found · 页面不存在 | Aroma Sense"}],["$","meta","1",{"name":"robots","content":"noindex, nofollow"}],["$","link","2",{"rel":"icon","href":"/aromasense-demo/favicon.ico?favicon.2f-53kg08uw-u.ico","sizes":"32x32","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/aromasense-demo/icon.png?icon.3s7wt4eaun_gq.png","sizes":"512x512","type":"image/png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/aromasense-demo/apple-icon.png?apple-icon.0zi6javbdi-fv.png","sizes":"180x180","type":"image/png"}],["$","$L9","5",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/aromasense-demo/_next/static/chunks/3_in7xg1q2wr0.css","precedence":"next"}],["$","script","script-0",{"src":"/aromasense-demo/_next/static/chunks/126wcws0-8dle.js","async":true}]],["$","html",null,{"lang":"fr","className":"spectral_5856e2da-module__9hmg-W__variable instrument_sans_8db33aad-module__0VDNMW__variable ibm_plex_mono_ad0edeba-module__MIkpna__variable chakra_petch_2c1a02bb-module__1buMBq__variable","children":["$","body",null,{"className":"bg-as-black text-as-cream","children":["$","main",null,{"className":"mx-auto flex min-h-svh max-w-site flex-col justify-center gap-8 px-6 sm:px-10","children":[["$","$Lf",null,{"href":"/","aria-label":"Aroma Sense, accueil","className":"inline-block ","children":["$","$L10",null,{"src":"/aromasense-demo/brand/logo-cream-480.png","alt":"Aroma Sense","width":480,"height":196,"priority":true,"style":{"width":132,"height":"auto"}}]}],["$","p",null,{"className":"kicker text-as-gold","children":"404"}],["$","div",null,{"className":"space-y-3","children":[["$","h1",null,{"className":"font-display text-display-s font-extralight text-as-cream","children":"Cette page n’existe pas."}],["$","p",null,{"lang":"en","className":"font-display text-lead font-light text-as-stone","children":"This page does not exist."}],["$","p",null,{"lang":"zh-Hans","className":"font-display text-lead font-light text-as-stone","children":"页面不存在。"}]]}],["$","ul",null,{"className":"flex flex-wrap gap-x-8 gap-y-3","children":[["$","li",null,{"children":["$","$Lf",null,{"href":"/","className":"kicker kicker-nav !text-as-cream hover:!text-as-gold","children":["Retour à l’accueil ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/en","lang":"en","hrefLang":"en","className":"kicker kicker-nav hover:!text-as-cream","children":["Back to the homepage ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/zh","lang":"zh-Hans","hrefLang":"zh-Hans","className":"kicker kicker-nav hover:!text-as-cream","children":["返回首页 ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]}]]}]]}]}]}]]}],"isPartial":"$@11","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+4:null
+6:300
+13:true
+6:C
+12:0
+a:"$undefined"
+d:"$undefined"
+11:"$undefined"
+5:"$undefined"
